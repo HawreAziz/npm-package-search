@@ -1,0 +1,1121 @@
+{
+    "objects": [
+        {
+            "package": {
+                "name": "react",
+                "scope": "unscoped",
+                "version": "17.0.1",
+                "description": "React is a JavaScript library for building user interfaces.",
+                "keywords": [
+                    "react"
+                ],
+                "date": "2020-10-22T12:21:45.340Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/react",
+                    "homepage": "https://reactjs.org/",
+                    "repository": "https://github.com/facebook/react",
+                    "bugs": "https://github.com/facebook/react/issues"
+                },
+                "publisher": {
+                    "username": "gaearon",
+                    "email": "dan.abramov@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "sebmarkbage",
+                        "email": "sebastian@calyptus.eu"
+                    },
+                    {
+                        "username": "gaearon",
+                        "email": "dan.abramov@gmail.com"
+                    },
+                    {
+                        "username": "acdlite",
+                        "email": "npm@andrewclark.io"
+                    },
+                    {
+                        "username": "brianvaughn",
+                        "email": "briandavidvaughn@gmail.com"
+                    },
+                    {
+                        "username": "fb",
+                        "email": "opensource+npm@fb.com"
+                    },
+                    {
+                        "username": "trueadm",
+                        "email": "dg@domgan.com"
+                    },
+                    {
+                        "username": "sophiebits",
+                        "email": "npm@sophiebits.com"
+                    },
+                    {
+                        "username": "lunaruan",
+                        "email": "lunaris.ruan@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.5872309147818802,
+                "detail": {
+                    "quality": 0.5238415288269029,
+                    "popularity": 0.8954622556204077,
+                    "maintenance": 0.3333333333333333
+                }
+            },
+            "searchScore": 100000.64
+        },
+        {
+            "package": {
+                "name": "react-dom",
+                "scope": "unscoped",
+                "version": "17.0.1",
+                "description": "React package for working with the DOM.",
+                "keywords": [
+                    "react"
+                ],
+                "date": "2020-10-22T12:21:58.048Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/react-dom",
+                    "homepage": "https://reactjs.org/",
+                    "repository": "https://github.com/facebook/react",
+                    "bugs": "https://github.com/facebook/react/issues"
+                },
+                "publisher": {
+                    "username": "gaearon",
+                    "email": "dan.abramov@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "sebmarkbage",
+                        "email": "sebastian@calyptus.eu"
+                    },
+                    {
+                        "username": "gaearon",
+                        "email": "dan.abramov@gmail.com"
+                    },
+                    {
+                        "username": "zpao",
+                        "email": "paul@oshannessy.com"
+                    },
+                    {
+                        "username": "acdlite",
+                        "email": "npm@andrewclark.io"
+                    },
+                    {
+                        "username": "brianvaughn",
+                        "email": "briandavidvaughn@gmail.com"
+                    },
+                    {
+                        "username": "fb",
+                        "email": "opensource+npm@fb.com"
+                    },
+                    {
+                        "username": "trueadm",
+                        "email": "dg@domgan.com"
+                    },
+                    {
+                        "username": "sophiebits",
+                        "email": "npm@sophiebits.com"
+                    },
+                    {
+                        "username": "lunaruan",
+                        "email": "lunaris.ruan@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.5660134499237215,
+                "detail": {
+                    "quality": 0.5238415288269029,
+                    "popularity": 0.8348409274542399,
+                    "maintenance": 0.3333333333333333
+                }
+            },
+            "searchScore": 0.2077936
+        },
+        {
+            "package": {
+                "name": "react-select",
+                "scope": "unscoped",
+                "version": "4.1.0",
+                "description": "A Select control built with and for ReactJS",
+                "keywords": [
+                    "combobox",
+                    "form",
+                    "input",
+                    "multiselect",
+                    "react",
+                    "react-component",
+                    "select",
+                    "ui"
+                ],
+                "date": "2021-02-07T00:35:02.886Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/react-select",
+                    "homepage": "https://github.com/JedWatson/react-select#readme",
+                    "repository": "https://github.com/JedWatson/react-select",
+                    "bugs": "https://github.com/JedWatson/react-select/issues"
+                },
+                "author": {
+                    "name": "Jed Watson"
+                },
+                "publisher": {
+                    "username": "react-select-release-bot",
+                    "email": "automation+react-select@thinkmill.com.au"
+                },
+                "maintainers": [
+                    {
+                        "username": "jedwatson",
+                        "email": "jed.watson@me.com"
+                    },
+                    {
+                        "username": "brianvaughn",
+                        "email": "briandavidvaughn@gmail.com"
+                    },
+                    {
+                        "username": "gwyneplaine",
+                        "email": "cc.lee@live.com.au"
+                    },
+                    {
+                        "username": "mitchellhamilton",
+                        "email": "mitchell@mitchellhamilton.me"
+                    },
+                    {
+                        "username": "react-select-release-bot",
+                        "email": "automation+react-select@thinkmill.com.au"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.5842886010978675,
+                "detail": {
+                    "quality": 0.885937397811506,
+                    "popularity": 0.5766877573935686,
+                    "maintenance": 0.3333333333333333
+                }
+            },
+            "searchScore": 0.1128091
+        },
+        {
+            "package": {
+                "name": "react-draggable",
+                "scope": "unscoped",
+                "version": "4.4.3",
+                "description": "React draggable component",
+                "keywords": [
+                    "react",
+                    "draggable",
+                    "react-component"
+                ],
+                "date": "2020-06-08T15:43:55.400Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/react-draggable",
+                    "homepage": "https://github.com/mzabriskie/react-draggable",
+                    "repository": "https://github.com/mzabriskie/react-draggable",
+                    "bugs": "https://github.com/mzabriskie/react-draggable/issues"
+                },
+                "author": {
+                    "name": "Matt Zabriskie"
+                },
+                "publisher": {
+                    "username": "strml",
+                    "email": "samuel.trace.reed@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "mzabriskie",
+                        "email": "mzabriskie@gmail.com"
+                    },
+                    {
+                        "username": "strml",
+                        "email": "samuel.trace.reed@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.5859760054281915,
+                "detail": {
+                    "quality": 0.9544646003432417,
+                    "popularity": 0.5286469497366144,
+                    "maintenance": 0.3274576940497255
+                }
+            },
+            "searchScore": 0.10964286
+        },
+        {
+            "package": {
+                "name": "react-redux",
+                "scope": "unscoped",
+                "version": "7.2.2",
+                "description": "Official React bindings for Redux",
+                "keywords": [
+                    "react",
+                    "reactjs",
+                    "redux"
+                ],
+                "date": "2020-10-26T22:50:16.869Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/react-redux",
+                    "homepage": "https://github.com/reduxjs/react-redux",
+                    "repository": "https://github.com/reduxjs/react-redux",
+                    "bugs": "https://github.com/reduxjs/react-redux/issues"
+                },
+                "author": {
+                    "name": "Dan Abramov",
+                    "email": "dan.abramov@me.com",
+                    "url": "https://github.com/gaearon"
+                },
+                "publisher": {
+                    "username": "timdorr",
+                    "email": "timdorr@timdorr.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "gaearon",
+                        "email": "dan.abramov@gmail.com"
+                    },
+                    {
+                        "username": "timdorr",
+                        "email": "timdorr@timdorr.com"
+                    },
+                    {
+                        "username": "acemarke",
+                        "email": "mark.erikson@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.5511133051648932,
+                "detail": {
+                    "quality": 0.6238165329781964,
+                    "popularity": 0.7073714225071972,
+                    "maintenance": 0.33253813541118654
+                }
+            },
+            "searchScore": 0.09762515
+        },
+        {
+            "package": {
+                "name": "eslint-plugin-react",
+                "scope": "unscoped",
+                "version": "7.22.0",
+                "description": "React specific linting rules for ESLint",
+                "keywords": [
+                    "eslint",
+                    "eslint-plugin",
+                    "eslintplugin",
+                    "react"
+                ],
+                "date": "2020-12-30T04:55:40.714Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/eslint-plugin-react",
+                    "homepage": "https://github.com/yannickcr/eslint-plugin-react",
+                    "repository": "https://github.com/yannickcr/eslint-plugin-react",
+                    "bugs": "https://github.com/yannickcr/eslint-plugin-react/issues"
+                },
+                "author": {
+                    "name": "Yannick Croissant",
+                    "email": "yannick.croissant+npm@gmail.com",
+                    "username": "yannickcr"
+                },
+                "publisher": {
+                    "username": "ljharb",
+                    "email": "ljharb@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "yannickcr",
+                        "email": "yannick.croissant+npm@gmail.com"
+                    },
+                    {
+                        "username": "ljharb",
+                        "email": "ljharb@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.5534263647583288,
+                "detail": {
+                    "quality": 0.637435300963178,
+                    "popularity": 0.701511736579168,
+                    "maintenance": 0.3333333333333333
+                }
+            },
+            "searchScore": 0.08809263
+        },
+        {
+            "package": {
+                "name": "react-popper",
+                "scope": "unscoped",
+                "version": "2.2.4",
+                "description": "Official library to use Popper on React projects",
+                "keywords": [
+                    "react",
+                    "react-popper",
+                    "popperjs",
+                    "component",
+                    "drop",
+                    "tooltip",
+                    "popover"
+                ],
+                "date": "2020-11-05T17:34:01.188Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/react-popper",
+                    "homepage": "https://popper.js.org/react-popper",
+                    "repository": "https://github.com/popperjs/react-popper",
+                    "bugs": "https://github.com/popperjs/react-popper/issues"
+                },
+                "author": {
+                    "name": "Travis Arnold",
+                    "email": "travis@souporserious.com",
+                    "url": "http://souporserious.com"
+                },
+                "publisher": {
+                    "username": "fezvrasta",
+                    "email": "federico.zivolo@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "fezvrasta",
+                        "email": "federico.zivolo@gmail.com"
+                    },
+                    {
+                        "username": "souporserious",
+                        "email": "ftntravis@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.5749980234476109,
+                "detail": {
+                    "quality": 0.9560902526047378,
+                    "popularity": 0.49063616050367775,
+                    "maintenance": 0.33270940425686374
+                }
+            },
+            "searchScore": 0.073266424
+        },
+        {
+            "package": {
+                "name": "react-dropzone",
+                "scope": "unscoped",
+                "version": "11.3.1",
+                "description": "Simple HTML5 drag-drop zone with React.js",
+                "keywords": [
+                    "react-component",
+                    "react",
+                    "drag",
+                    "drop",
+                    "upload"
+                ],
+                "date": "2021-02-08T06:36:32.642Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/react-dropzone",
+                    "homepage": "https://github.com/react-dropzone/react-dropzone",
+                    "repository": "https://github.com/react-dropzone/react-dropzone",
+                    "bugs": "https://github.com/react-dropzone/react-dropzone/issues"
+                },
+                "author": {
+                    "name": "Param Aggarwal"
+                },
+                "publisher": {
+                    "username": "rolandjitsu",
+                    "email": "rolandjitsu@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "rolandjitsu",
+                        "email": "rolandjitsu@gmail.com"
+                    },
+                    {
+                        "username": "rxmarbles",
+                        "email": "rmarkins@gmail.com"
+                    },
+                    {
+                        "username": "okonet",
+                        "email": "andrey@okonet.ru"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.5693733494503057,
+                "detail": {
+                    "quality": 0.9296866546436808,
+                    "popularity": 0.4965733896872423,
+                    "maintenance": 0.3333333333333333
+                }
+            },
+            "searchScore": 0.06391302
+        },
+        {
+            "package": {
+                "name": "@testing-library/react",
+                "scope": "testing-library",
+                "version": "11.2.5",
+                "description": "Simple and complete React DOM testing utilities that encourage good testing practices.",
+                "keywords": [
+                    "testing",
+                    "react",
+                    "ui",
+                    "dom",
+                    "jsdom",
+                    "unit",
+                    "integration",
+                    "functional",
+                    "end-to-end",
+                    "e2e"
+                ],
+                "date": "2021-02-02T16:40:43.040Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/%40testing-library%2Freact",
+                    "homepage": "https://github.com/testing-library/react-testing-library#readme",
+                    "repository": "https://github.com/testing-library/react-testing-library",
+                    "bugs": "https://github.com/testing-library/react-testing-library/issues"
+                },
+                "author": {
+                    "name": "Kent C. Dodds",
+                    "email": "me@kentcdodds.com",
+                    "url": "https://kentcdodds.com",
+                    "username": "kentcdodds"
+                },
+                "publisher": {
+                    "username": "testing-library-bot",
+                    "email": "testinglibraryoss@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "testing-library-bot",
+                        "email": "testinglibraryoss@gmail.com"
+                    },
+                    {
+                        "username": "kentcdodds",
+                        "email": "me@kentcdodds.com"
+                    },
+                    {
+                        "username": "bcarroll22",
+                        "email": "brandonvcarroll@gmail.com"
+                    },
+                    {
+                        "username": "benmonro",
+                        "email": "ben.monro@gmail.com"
+                    },
+                    {
+                        "username": "wendell_adriel",
+                        "email": "wendelladriel.ti@gmail.com"
+                    },
+                    {
+                        "username": "timdeschryver",
+                        "email": "timdeschryver.dev@gmail.com"
+                    },
+                    {
+                        "username": "patrickhulce",
+                        "email": "patrick.hulce@gmail.com"
+                    },
+                    {
+                        "username": "dfcook",
+                        "email": "dfcook@hotmail.com"
+                    },
+                    {
+                        "username": "gpx",
+                        "email": "polvara@gmail.com"
+                    },
+                    {
+                        "username": "mpeyper",
+                        "email": "mpeyper7@gmail.com"
+                    },
+                    {
+                        "username": "antoaravinth",
+                        "email": "anto.aravinth.cse@gmail.com"
+                    },
+                    {
+                        "username": "mihar-22",
+                        "email": "rahim_alwer@hotmail.com"
+                    },
+                    {
+                        "username": "pago",
+                        "email": "patrick.gotthardt@trivago.com"
+                    },
+                    {
+                        "username": "cmckinstry",
+                        "email": "carson.mckinstry@gmail.com"
+                    },
+                    {
+                        "username": "thymikee",
+                        "email": "thymikee@gmail.com"
+                    },
+                    {
+                        "username": "brrianalexis",
+                        "email": "brrianalexis.dev@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.5759865735013537,
+                "detail": {
+                    "quality": 0.9556256498084393,
+                    "popularity": 0.4932348911204436,
+                    "maintenance": 0.3333333333333333
+                }
+            },
+            "searchScore": 0.06380548
+        },
+        {
+            "package": {
+                "name": "react-scripts",
+                "scope": "unscoped",
+                "version": "4.0.2",
+                "description": "Configuration and scripts for Create React App.",
+                "date": "2021-02-03T18:58:10.780Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/react-scripts",
+                    "homepage": "https://github.com/facebook/create-react-app#readme",
+                    "repository": "https://github.com/facebook/create-react-app",
+                    "bugs": "https://github.com/facebook/create-react-app/issues"
+                },
+                "publisher": {
+                    "username": "iansu",
+                    "email": "ian@iansutherland.ca"
+                },
+                "maintainers": [
+                    {
+                        "username": "gaearon",
+                        "email": "dan.abramov@gmail.com"
+                    },
+                    {
+                        "username": "fb",
+                        "email": "opensource+npm@fb.com"
+                    },
+                    {
+                        "username": "timer",
+                        "email": "timer150@gmail.com"
+                    },
+                    {
+                        "username": "iansu",
+                        "email": "ian@iansutherland.ca"
+                    },
+                    {
+                        "username": "ianschmitz",
+                        "email": "ianschmitz@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.5495671141715434,
+                "detail": {
+                    "quality": 0.6960084709817536,
+                    "popularity": 0.6402797320295731,
+                    "maintenance": 0.3333333333333333
+                }
+            },
+            "searchScore": 0.061726287
+        },
+        {
+            "package": {
+                "name": "react-color",
+                "scope": "unscoped",
+                "version": "2.19.3",
+                "description": "A Collection of Color Pickers from Sketch, Photoshop, Chrome & more",
+                "keywords": [
+                    "react",
+                    "color picker",
+                    "react-component",
+                    "colorpicker",
+                    "picker",
+                    "sketch",
+                    "chrome",
+                    "photoshop",
+                    "material design",
+                    "popup"
+                ],
+                "date": "2020-10-28T05:41:11.999Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/react-color",
+                    "homepage": "http://casesandberg.github.io/react-color/",
+                    "repository": "https://github.com/casesandberg/react-color",
+                    "bugs": "https://github.com/casesandberg/react-color/issues"
+                },
+                "author": {
+                    "name": "case",
+                    "email": "case@casesandberg.com",
+                    "username": "case"
+                },
+                "publisher": {
+                    "username": "case",
+                    "email": "case@casesandberg.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "case",
+                        "email": "case@casesandberg.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.5678747612615547,
+                "detail": {
+                    "quality": 0.9208987042140586,
+                    "popularity": 0.500544225966393,
+                    "maintenance": 0.3326133454545704
+                }
+            },
+            "searchScore": 0.058408555
+        },
+        {
+            "package": {
+                "name": "classnames",
+                "scope": "unscoped",
+                "version": "2.2.6",
+                "description": "A simple utility for conditionally joining classNames together",
+                "keywords": [
+                    "react",
+                    "css",
+                    "classes",
+                    "classname",
+                    "classnames",
+                    "util",
+                    "utility"
+                ],
+                "date": "2018-06-08T08:09:46.288Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/classnames",
+                    "homepage": "https://github.com/JedWatson/classnames#readme",
+                    "repository": "https://github.com/JedWatson/classnames",
+                    "bugs": "https://github.com/JedWatson/classnames/issues"
+                },
+                "author": {
+                    "name": "Jed Watson"
+                },
+                "publisher": {
+                    "username": "jedwatson",
+                    "email": "jed.watson@me.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "jedwatson",
+                        "email": "jed.watson@me.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.5646588816663209,
+                "detail": {
+                    "quality": 0.6164450751305819,
+                    "popularity": 0.7951547019627958,
+                    "maintenance": 0.28977489554333663
+                }
+            },
+            "searchScore": 0.044028476
+        },
+        {
+            "package": {
+                "name": "react-table",
+                "scope": "unscoped",
+                "version": "7.6.3",
+                "description": "Hooks for building lightweight, fast and extendable datagrids for React",
+                "keywords": [
+                    "react",
+                    "table",
+                    "react-table",
+                    "datagrid"
+                ],
+                "date": "2021-01-11T21:37:55.012Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/react-table",
+                    "homepage": "https://react-table.tanstack.com",
+                    "repository": "https://github.com/tannerlinsley/react-table",
+                    "bugs": "https://github.com/tannerlinsley/react-table/issues"
+                },
+                "publisher": {
+                    "username": "tannerlinsley",
+                    "email": "tannerlinsley@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "tannerlinsley",
+                        "email": "tannerlinsley@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.5535950019545823,
+                "detail": {
+                    "quality": 0.9553613966202649,
+                    "popularity": 0.4294854751481034,
+                    "maintenance": 0.3333333333333333
+                }
+            },
+            "searchScore": 0.037740428
+        },
+        {
+            "package": {
+                "name": "react-docgen",
+                "scope": "unscoped",
+                "version": "5.3.1",
+                "description": "A CLI and toolkit to extract information from React components for documentation generation.",
+                "keywords": [
+                    "react",
+                    "documentation-generation"
+                ],
+                "date": "2020-10-21T14:23:57.488Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/react-docgen",
+                    "homepage": "https://github.com/reactjs/react-docgen#readme",
+                    "repository": "https://github.com/reactjs/react-docgen",
+                    "bugs": "https://github.com/reactjs/react-docgen/issues"
+                },
+                "author": {
+                    "name": "Felix Kling"
+                },
+                "publisher": {
+                    "username": "danez",
+                    "email": "daniel@tschinder.de"
+                },
+                "maintainers": [
+                    {
+                        "username": "fb",
+                        "email": "opensource+npm@fb.com"
+                    },
+                    {
+                        "username": "danez",
+                        "email": "daniel@tschinder.de"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.5436636086005876,
+                "detail": {
+                    "quality": 0.9059923845323534,
+                    "popularity": 0.4437947368686187,
+                    "maintenance": 0.3329649581053289
+                }
+            },
+            "searchScore": 0.031116234
+        },
+        {
+            "package": {
+                "name": "react-toastify",
+                "scope": "unscoped",
+                "version": "7.0.3",
+                "description": "React notification made easy",
+                "keywords": [
+                    "react",
+                    "notification",
+                    "toast",
+                    "react-component",
+                    "react-toastify",
+                    "push",
+                    "alert"
+                ],
+                "date": "2021-02-01T11:49:35.829Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/react-toastify",
+                    "homepage": "https://github.com/fkhadra/react-toastify#readme",
+                    "repository": "https://github.com/fkhadra/react-toastify",
+                    "bugs": "https://github.com/fkhadra/react-toastify/issues"
+                },
+                "author": {
+                    "name": "Fadi Khadra",
+                    "email": "fdkhadra@gmail.com",
+                    "url": "https://fkhadra.github.io",
+                    "username": "sniphpet"
+                },
+                "publisher": {
+                    "username": "sniphpet",
+                    "email": "fdkhadra@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "sniphpet",
+                        "email": "fdkhadra@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.5390038785997738,
+                "detail": {
+                    "quality": 0.9449559886590745,
+                    "popularity": 0.3967154723868137,
+                    "maintenance": 0.3333333333333333
+                }
+            },
+            "searchScore": 0.024612144
+        },
+        {
+            "package": {
+                "name": "react-transition-group",
+                "scope": "unscoped",
+                "version": "4.4.1",
+                "description": "A react component toolset for managing animations",
+                "keywords": [
+                    "react",
+                    "transition",
+                    "addons",
+                    "transition-group",
+                    "animation",
+                    "css",
+                    "transitions"
+                ],
+                "date": "2020-05-06T14:50:45.792Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/react-transition-group",
+                    "homepage": "https://github.com/reactjs/react-transition-group#readme",
+                    "repository": "https://github.com/reactjs/react-transition-group",
+                    "bugs": "https://github.com/reactjs/react-transition-group/issues"
+                },
+                "publisher": {
+                    "username": "monastic.panic",
+                    "email": "monastic.panic@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "monastic.panic",
+                        "email": "monastic.panic@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.503436080444682,
+                "detail": {
+                    "quality": 0.5939589107250801,
+                    "popularity": 0.6326100039463357,
+                    "maintenance": 0.2966711595598299
+                }
+            },
+            "searchScore": 0.023503846
+        },
+        {
+            "package": {
+                "name": "@guoruiguang/acs-portal",
+                "scope": "guoruiguang",
+                "version": "1.0.8",
+                "description": "> 使用 @lugia/lugia-web, @lugia/lugiax, @lugia/mega-scripts ...",
+                "keywords": [
+                    "lugia",
+                    "lugia-admin",
+                    "admin",
+                    "framework",
+                    "frontend",
+                    "react"
+                ],
+                "date": "2020-06-15T05:20:45.831Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/%40guoruiguang%2Facs-portal",
+                    "homepage": "http://lugia.tech",
+                    "repository": "https://github.com/lugia-ysstech/lugia-admin",
+                    "bugs": "https://github.com/lugia-ysstech/lugia-admin/issues"
+                },
+                "publisher": {
+                    "username": "zhaoyuehang",
+                    "email": "Zhaoyh_mail@163.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "grguang",
+                        "email": "13241049900@163.com"
+                    },
+                    {
+                        "username": "zhaoyuehang",
+                        "email": "Zhaoyh_mail@163.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6521214934702679,
+                "detail": {
+                    "quality": 0.8282075087679462,
+                    "popularity": 0.15331220246176808,
+                    "maintenance": 0.9999999142236149
+                }
+            },
+            "searchScore": 0.021463051
+        },
+        {
+            "package": {
+                "name": "rc-util",
+                "scope": "unscoped",
+                "version": "5.8.0",
+                "description": "Common Utils For React Component",
+                "keywords": [
+                    "react",
+                    "util"
+                ],
+                "date": "2021-02-04T09:41:33.103Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/rc-util",
+                    "homepage": "http://github.com/react-component/util",
+                    "repository": "https://github.com/react-component/util",
+                    "bugs": "http://github.com/react-component/util/issues"
+                },
+                "publisher": {
+                    "username": "zombiej",
+                    "email": "smith3816@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "benjycui",
+                        "email": "benjytrys@gmail.com"
+                    },
+                    {
+                        "username": "yesmeck",
+                        "email": "yesmeck@gmail.com"
+                    },
+                    {
+                        "username": "afc163",
+                        "email": "afc163@gmail.com"
+                    },
+                    {
+                        "username": "yiminghe",
+                        "email": "yiminghe@gmail.com"
+                    },
+                    {
+                        "username": "vagusx",
+                        "email": "onlylae@sina.com"
+                    },
+                    {
+                        "username": "jljsj33",
+                        "email": "155259966@qq.com"
+                    },
+                    {
+                        "username": "zombiej",
+                        "email": "smith3816@gmail.com"
+                    },
+                    {
+                        "username": "dahong",
+                        "email": "darryshaw@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.5595037122056189,
+                "detail": {
+                    "quality": 0.9310857988076285,
+                    "popularity": 0.4671751597047533,
+                    "maintenance": 0.3333333333333333
+                }
+            },
+            "searchScore": 0.02128992
+        },
+        {
+            "package": {
+                "name": "react-helmet",
+                "scope": "unscoped",
+                "version": "6.1.0",
+                "description": "A document head manager for React",
+                "keywords": [
+                    "react-helmet",
+                    "nfl",
+                    "react",
+                    "document",
+                    "head",
+                    "title",
+                    "meta",
+                    "link",
+                    "script",
+                    "base",
+                    "noscript",
+                    "style"
+                ],
+                "date": "2020-06-08T04:59:07.232Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/react-helmet",
+                    "homepage": "https://github.com/nfl/react-helmet#readme",
+                    "repository": "https://github.com/nfl/react-helmet",
+                    "bugs": "https://github.com/nfl/react-helmet/issues"
+                },
+                "author": {
+                    "name": "NFL",
+                    "email": "engineers@nfl.com"
+                },
+                "publisher": {
+                    "username": "cwelch5",
+                    "email": "chris.welch@nfl.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "carakuei",
+                        "email": "cara.kuei@nfl.com"
+                    },
+                    {
+                        "username": "cwelch5",
+                        "email": "chris.welch@nfl.com"
+                    },
+                    {
+                        "username": "djwiebe",
+                        "email": "darren.wiebe@nfl.com"
+                    },
+                    {
+                        "username": "miblanchard-nfl",
+                        "email": "michael.blanchard@nfl.com"
+                    },
+                    {
+                        "username": "mikenfl",
+                        "email": "michael.lujan@nfl.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.5022075316362105,
+                "detail": {
+                    "quality": 0.63884777229484,
+                    "popularity": 0.5673812816646275,
+                    "maintenance": 0.3199135753289681
+                }
+            },
+            "searchScore": 0.019879632
+        },
+        {
+            "package": {
+                "name": "react-ga",
+                "scope": "unscoped",
+                "version": "3.3.0",
+                "description": "React Google Analytics Module",
+                "keywords": [
+                    "React",
+                    "GA",
+                    "Google Analytics",
+                    "Universal Analytics"
+                ],
+                "date": "2020-11-21T23:34:27.510Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/react-ga",
+                    "homepage": "https://github.com/react-ga/react-ga",
+                    "repository": "https://github.com/react-ga/react-ga",
+                    "bugs": "https://github.com/react-ga/react-ga/issues"
+                },
+                "author": {
+                    "name": "@adamlofting"
+                },
+                "publisher": {
+                    "username": "simeonc",
+                    "email": "simeon@thehavens.co.nz"
+                },
+                "maintainers": [
+                    {
+                        "username": "simeonc",
+                        "email": "simeon@thehavens.co.nz"
+                    },
+                    {
+                        "username": "adamlofting",
+                        "email": "contactme@adamlofting.com"
+                    },
+                    {
+                        "username": "yangshun",
+                        "email": "tay.yang.shun@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.5321102650415388,
+                "detail": {
+                    "quality": 0.9328765986692652,
+                    "popularity": 0.38747239225696345,
+                    "maintenance": 0.33323413757377723
+                }
+            },
+            "searchScore": 0.019857336
+        }
+    ],
+    "total": 151033,
+    "time": "Sun Feb 14 2021 21:56:32 GMT+0000 (UTC)"
+}
